@@ -1,4 +1,4 @@
-# DedSec GRUB theme (1080p)
+# Payra OS GRUB theme (1080p)
 
 desktop-image: "background.png"
 title-text: ""
